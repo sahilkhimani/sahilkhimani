@@ -27,8 +27,9 @@ Throughout my educational journey. I've honed my expertise in various languages,
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhimani&layout=compact&theme=vision-friendly-dark)]
 
-
+<hr>
 <h3 align="left">Connect with me:</h3>
+<hr>
 If you're enthusiastic about tech, creativity, or just a good old coding conversation, I'm thrilled to connect and exchange ideas Just Follow me!.
 <br>
 <br> 
