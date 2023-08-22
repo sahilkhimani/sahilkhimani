@@ -5,6 +5,14 @@ Hey there! I'm Sahil Khimani, an enthusiastic software engineering student on th
 Throughout my educational journey. I've honed my expertise in various languages, including HTML, CSS, JavaScript, and MySQL also with a strong passion for crafting web applications using the Python Flask framework. From front-end development to database management, I'm equipped with the tools to create impactful solutions that drive innovation.
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhimani)](https://git.io/streak-stats)
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 If you're enthusiastic about tech, creativity, or just a good old coding conversation, I'm thrilled to connect and exchange ideas Just Follow me!.
 <br />
