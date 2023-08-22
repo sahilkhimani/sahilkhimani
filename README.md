@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**sahilkhimani/sahilkhimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Passionate Web Developer and Code Enthusiast 🐍🌐
+### Hi there 👋 Passionate Web Developer and Code Enthusiast 🐍🌐
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,4 @@ Passionate Web Developer and Code Enthusiast 🐍🌐
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
