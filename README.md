@@ -23,9 +23,9 @@ Throughout my educational journey. I've honed my expertise in various languages,
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhimani)](https://git.io/streak-stats)
 
-<br
+<br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhimani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhimani&layout=compact&theme=vision-friendly-dark)]
 
 
 <h3 align="left">Connect with me:</h3>
