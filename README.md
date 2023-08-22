@@ -10,7 +10,7 @@ If you're enthusiastic about tech, creativity, or just a good old coding convers
 <br />
 <br /> 
 <p align="left">
-<a href="https://pk.linkedin.com/in/sahilkhimani01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://pk.linkedin.com/in/sahilkhimani01" target="blank"><img style = "text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sahil_asif01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCNVLYFmk9mYb6jWzc3yx_uw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
