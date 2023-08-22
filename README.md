@@ -4,7 +4,10 @@ Hey there! I'm Sahil Khimani, an enthusiastic software engineering student on th
 
 Throughout my educational journey. I've honed my expertise in various languages, including HTML, CSS, JavaScript, and MySQL also with a strong passion for crafting web applications using the Python Flask framework. From front-end development to database management, I'm equipped with the tools to create impactful solutions that drive innovation.
 <hr>
+
 ### :hammer_and_wrench: Languages and Tools :
+
+<hr>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
