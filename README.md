@@ -21,7 +21,7 @@ Throughout my educational journey. I've honed my expertise in various languages,
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;</div>
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhimani)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilkhimani)](https://git.io/streak-stats) -->
 
 <br>
   
